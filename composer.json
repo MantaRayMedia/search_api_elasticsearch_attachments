@@ -4,10 +4,6 @@
     "type": "drupal-module",
     "authors": [
         {
-            "name": "dakku",
-            "email": "@dakku"
-        },
-        {
             "name": "Jernej Slejko",
             "email": "slejnej@gmail.com"
         }
